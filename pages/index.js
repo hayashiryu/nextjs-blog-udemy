@@ -25,7 +25,7 @@ export default function Home({ allPostsData }) {
     </Head>
     <section className={utilStyles.headingMd}>
       <p>
-        私は新人エンジニアです。嘘です。
+        私は新人エンジニアです。です。
       </p>
     </section>
 
